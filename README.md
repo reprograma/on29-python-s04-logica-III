@@ -1,6 +1,6 @@
 # ementa-python-analise-dados
 
-## S03 - Condicionais, operadores lógicos, erros e exceções
+## S04 - Loops e estruturas de dados
 
 ### Material base: https://docs.google.com/presentation/d/1RyITgNV1uzJHum-h6of_PILQeUYqvjrUaQEYA0SHhNU/
 
